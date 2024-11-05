@@ -11,4 +11,5 @@ Our approach is creating a many-to-one bidirectional LSTM model (RNN) as these t
 models are suited for time-series forecasting tasks such as weather prediction, where given a 
 sequence of days, we predict the mean_temp and sunshine values for the next day. 
 Libraries used in this project includes: Pytorch and tensorFlow.
+
 More details and explanation about the project is provided in the [project report](https://github.com/hakeemab/Weather-prediction-project-/blob/master/report.pdf)
